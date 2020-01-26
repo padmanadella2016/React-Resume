@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Padma Nadella",
+    "occupation":"Front End Developer",
+    "description":"I have more than 5 years of experience in Web Development. I am Specialized in Front end development and digital marketing. I can help take your idea or concept and turn it into a high quality responsive websites.",
+    "image":"profilepic.jpg",
+    "bio":"My knowledge of multiple fields allows me to work on a project with the full scope in mind, simplifying the process of our working together and producing a more cohesive experience for users. I always believe working with good projects gives  professional growth and personal satisfaction. I would like to utilize my communication skills, teamwork, troubleshooting, excellence, time management and creativity for the growth of the organization.  ",
+    "contactmessage":"contact Me.",
+    "email": "padmanadella.2016@gmail.com",
+    "phone": "Email please",
+    "address":{
+      "street":"",
+      "city":"Melbourne",
+      "state":"Victoria",
+      "zip": "3044"
+    },
+    "website": "",
+    "resumedownload":"http://resume.ablissfulmommy.com/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/padma-nadella-526272137/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/padmanadella2016",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Creative,Team Work,Innovative Ideas",
+    "education":[
+      {
+        "school":"",
+        "degree":"Masters in Information Systems",
+        "graduated":" ",
+        "description":""
+      },
+      {
+        "school":"",
+        "degree":"Bachelors in information technology",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"2021 Creative",
+        "title":"Front End Web Developer ",
+        "years":"Aug 2019 - Present",
+        "description":""
+            },
+      {
+        "company":"Fluent Grid",
+        "title":"Front End Developer ",
+        "years":"2016-2019",
+        "description":""
+      },
+      {
+        "company":"Alainas",
+        "title":"Front End Developer ",
+        "years":"2014-2016",
+        "description":""
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"CMS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
